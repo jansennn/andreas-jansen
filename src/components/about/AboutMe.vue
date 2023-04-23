@@ -5,11 +5,19 @@ export default {
       bios: [
         {
           id: 1,
-          bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.",
+          bio: "Hello and welcome to my website! My name is Andreas Tampubolon and I am a software engineer based in Jakarta, Indonesia. Currently 23 years old, I work for an e-wallet company where I specialize in developing and maintaining software systems.",
         },
         {
           id: 2,
-          bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?",
+          bio: "As a passionate software engineer, I am dedicated to creating innovative solutions that make people's lives easier. Whether it's designing user-friendly interfaces or streamlining complex processes, I love the challenge of solving problems through code.",
+        },
+        {
+          id: 3,
+          bio: "In my free time, I enjoy exploring new technologies and experimenting with different programming languages. I am also an avid reader and enjoy learning about the latest industry trends and developments.",
+        },
+        {
+          id: 4,
+          bio: "Thank you for visiting my website and please feel free to reach out if you have any questions or would like to collaborate on a project.",
         },
       ],
     };
