@@ -2,7 +2,7 @@ export const socialLinks = [{
 		id: 1,
 		name: 'Website',
 		icon: 'globe',
-		url: 'https://www.andreasjansen.me/',
+		url: 'https://www.andreastampubolon.com/',
 	},
 	{
 		id: 2,
